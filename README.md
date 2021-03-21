@@ -1,15 +1,15 @@
 ### _This project is not in a complete or portfolio ready state, and should not be considered representiational of professional work._
 
 
-# Application Name
+# Martian Weather
 
-#### Brief Description of Application
+#### This application will give current weather conditions on Mars along with other information like the Astronomy Picture of The Day, etc.
 
-#### By Collin Chapman
+#### By Collin Chapman, HR Williams, Saoud Rana
 
 ## Preview
 
-  * Follow this [path](https://github.com/) to view the project on GitHub Pages
+  * GitHub pages is not set up for this project.
 
 ## Technologies Used
 
@@ -37,7 +37,7 @@
 
 ## Description
 
-This is a detailed description of your application. Give as much detail as needed to explain what the application does as well as any other information you want users or other developers to have.
+The purpose of this project is to experiement with different tools that work with asynchrony - primarily callbacks and promises. With this in mind, we are building an application for Martians to use that informs them current weather conditions, the astronomy picture of the days, and views from the Mars Rover.
 
 ## Setup/Installation Requirements
 
@@ -60,14 +60,13 @@ This is a detailed description of your application. Give as much detail as neede
 
 ## Known Bugs
 
-* _Any known issues_
-* _should go here_
+
 
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
-_Copyright (c) **2021 Collin Chapman**_
+_Copyright (c) **2021 Collin Chapman, HR Williams, Saoud Rana**_
 
 ## Contact Information
 

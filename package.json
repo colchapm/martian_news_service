@@ -1,7 +1,7 @@
 {
-  "name": "Document",
+  "name": "martian_news_service",
   "version": "1.0.0",
-  "description": "",
+  "description": "an application that gives current weather and other information on Mars",
   "main": "main.js",
   "scripts": {
     "build": "webpack --mode development",
@@ -10,14 +10,14 @@
     "test": "jest --coverage"
   },
   "keywords": [],
-  "author": "",
+  "author": "Collin Chapman and HR Williams",
   "license": "ISC",
   "devDependencies": {
     "@babel/core": "^7.6.4",
     "@babel/plugin-transform-modules-commonjs": "^7.6.0",
     "clean-webpack-plugin": "^3.0.0",
     "css-loader": "^3.2.0",
-    "dotenv-webpack": "^7.0.1",
+    "dotenv-webpack": "2.0.0",
     "eslint": "^6.3.0",
     "eslint-loader": "^3.0.0",
     "file-loader": "^1.1.6",

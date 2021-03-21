@@ -18,7 +18,7 @@ module.exports = {
     new CleanWebpackPlugin(),
     new Dotenv(),
     new HtmlWebpackPlugin({
-      title: 'Document',
+      title: 'Martian News Service',
       template: './src/index.html',
       inject: 'body'
     })
